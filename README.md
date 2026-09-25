@@ -42,9 +42,12 @@ A beginner-friendly Python data analysis project for exploring historical Gold (
 
 Beginner-friendly machine learning lab exercises covering train/test splitting, K-Fold cross-validation, and Scikit-learn basics.
 
+### 🧠 [Python DSA Practice](https://github.com/KumailAbbas05/Python-DSA-Practice)
+
+Beginner-friendly Python exercises covering arrays, searching, strings, and singly linked lists.
+
 ## 🔨 More Projects I'm Building
 
-- 🧠 Python & Data Structures Exercises
 - 🗃️ Database Systems Projects
 - 📊 Financial Market Data Analysis
 
