@@ -50,6 +50,10 @@ Beginner-friendly Python exercises covering arrays, searching, strings, and sing
 
 SQL practice covering relational database design, primary and foreign keys, queries, JOINs, aggregate functions, and normalization.
 
+### 🎓 [Student Performance Prediction](https://github.com/KumailAbbas05/Student-Performance-Prediction)
+
+An end-to-end regression project using Python and Scikit-learn to predict student final scores from study, attendance, assignment, sleep, and previous-score features using a clearly labeled synthetic dataset.
+
 ## 🔨 More Projects I'm Building
 
 - 📊 Financial Market Data Analysis
