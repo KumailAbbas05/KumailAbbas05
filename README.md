@@ -6,6 +6,10 @@ I'm building practical skills in **Python, Machine Learning, Data Analysis, Data
 
 I’m also interested in applying data analysis and AI techniques to **financial-market data**.
 
+## 🔗 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kumail%20Abbas-blue?logo=linkedin)](https://www.linkedin.com/in/kumail-abbas-59189b400/)
+
 ## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
