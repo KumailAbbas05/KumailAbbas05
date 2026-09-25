@@ -46,9 +46,12 @@ Beginner-friendly machine learning lab exercises covering train/test splitting, 
 
 Beginner-friendly Python exercises covering arrays, searching, strings, and singly linked lists.
 
+### 🗃️ [Database Systems](https://github.com/KumailAbbas05/Database-Systems)
+
+SQL practice covering relational database design, primary and foreign keys, queries, JOINs, aggregate functions, and normalization.
+
 ## 🔨 More Projects I'm Building
 
-- 🗃️ Database Systems Projects
 - 📊 Financial Market Data Analysis
 
 ## 📈 GitHub Stats
