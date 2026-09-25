@@ -32,9 +32,14 @@ Jupyter Notebook • VS Code • Git • GitHub • SQL
 - Artificial Intelligence
 - Git & GitHub
 
-## 🚀 Projects I'm Building
+## 🚀 Featured Project
 
-- 📈 XAUUSD Historical Data Analysis
+### 📈 [XAUUSD Data Analysis](https://github.com/KumailAbbas05/XAUUSD-Data-Analysis)
+
+A beginner-friendly Python data analysis project for exploring historical Gold (XAUUSD) prices using Pandas, NumPy, Matplotlib, and Jupyter Notebook.
+
+## 🔨 More Projects I'm Building
+
 - 🤖 Machine Learning Practice Projects
 - 🧠 Python & Data Structures Exercises
 - 🗃️ Database Systems Projects
