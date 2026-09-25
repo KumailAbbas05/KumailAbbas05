@@ -2,28 +2,31 @@
 
 ### BS Artificial Intelligence Student | Python | Machine Learning | Data Science
 
-I'm a **BS Artificial Intelligence student** focused on building practical skills in Python, machine learning, data analysis, databases, and problem solving.
+I'm building practical skills in **Python, Machine Learning, Data Analysis, Database Systems, and Data Structures** through hands-on projects.
 
-I’m especially interested in applying data science and AI to **financial-market data**, including XAUUSD analysis.
+I’m also interested in applying data analysis and AI techniques to **financial-market data**.
 
-## 👨‍💻 About Me
+## 🛠️ Tech Stack
 
-- 🎓 Studying **BS Artificial Intelligence**
-- 🐍 Working with **Python**
-- 🤖 Learning **Machine Learning & AI**
-- 📊 Exploring **Data Science and Data Analysis**
-- 🗄️ Learning **Database Systems & SQL**
-- 💹 Interested in **financial markets and XAUUSD**
-- 🚀 Building projects and improving my GitHub portfolio
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-purple)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-blue)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-green)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-Machine%20Learning-yellow)
+![SQL](https://img.shields.io/badge/SQL-Database-orange)
+![Git](https://img.shields.io/badge/Git-Version%20Control-red)
 
-## 🛠️ Skills & Tools
+## 🚀 Featured Projects
 
-```
-Python • Pandas • NumPy • Matplotlib • Scikit-learn
-Jupyter Notebook • VS Code • Git • GitHub • SQL
-```
+| Project | What it demonstrates | Main tools |
+|---|---|---|
+| 🎓 [Student Performance Prediction](https://github.com/KumailAbbas05/Student-Performance-Prediction) | End-to-end regression workflow with model evaluation | Python, Pandas, Scikit-learn |
+| 📈 [XAUUSD Data Analysis](https://github.com/KumailAbbas05/XAUUSD-Data-Analysis) | Financial time-series analysis using clearly labeled synthetic data | Python, Pandas, Matplotlib |
+| 🤖 [Machine Learning Labs](https://github.com/KumailAbbas05/Machine-Learning-Labs) | Train/test splitting and K-Fold cross-validation | Python, Scikit-learn |
+| 🧠 [Python DSA Practice](https://github.com/KumailAbbas05/Python-DSA-Practice) | Arrays, strings, searching and linked lists | Python |
+| 🗃️ [Database Systems](https://github.com/KumailAbbas05/Database-Systems) | Relational design, SQL queries, joins and normalization | SQL |
 
-## 📚 Currently Learning
+## 🌱 Currently Learning
 
 - Machine Learning
 - Data Structures & Algorithms
@@ -32,31 +35,12 @@ Jupyter Notebook • VS Code • Git • GitHub • SQL
 - Artificial Intelligence
 - Git & GitHub
 
-## 🚀 Featured Projects
+## 🎯 Current Focus
 
-### 📈 [XAUUSD Data Analysis](https://github.com/KumailAbbas05/XAUUSD-Data-Analysis)
-
-A beginner-friendly Python data analysis project for exploring historical Gold (XAUUSD) prices using Pandas, NumPy, Matplotlib, and Jupyter Notebook.
-
-### 🤖 [Machine Learning Labs](https://github.com/KumailAbbas05/Machine-Learning-Labs)
-
-Beginner-friendly machine learning lab exercises covering train/test splitting, K-Fold cross-validation, and Scikit-learn basics.
-
-### 🧠 [Python DSA Practice](https://github.com/KumailAbbas05/Python-DSA-Practice)
-
-Beginner-friendly Python exercises covering arrays, searching, strings, and singly linked lists.
-
-### 🗃️ [Database Systems](https://github.com/KumailAbbas05/Database-Systems)
-
-SQL practice covering relational database design, primary and foreign keys, queries, JOINs, aggregate functions, and normalization.
-
-### 🎓 [Student Performance Prediction](https://github.com/KumailAbbas05/Student-Performance-Prediction)
-
-An end-to-end regression project using Python and Scikit-learn to predict student final scores from study, attendance, assignment, sleep, and previous-score features using a clearly labeled synthetic dataset.
-
-## 🔨 More Projects I'm Building
-
-- 📊 Financial Market Data Analysis
+- Building stronger end-to-end ML projects
+- Improving Python problem-solving skills
+- Working with real public datasets
+- Exploring AI applications in financial data
 
 ## 📈 GitHub Stats
 
